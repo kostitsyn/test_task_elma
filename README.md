@@ -4,4 +4,4 @@
 ```'Content-Type': 'application/json'```
 
 ### Если используется интерфейс DRF, в *Media type* выбрать:
-``applocation/json``
+``application/json``
